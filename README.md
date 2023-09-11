@@ -1,3 +1,8 @@
+[Link to EC2-Exercises-#2](#EC2-Exercises-#2)
+[Link to Installation](#installation)
+[Link to Usage](#usage)
+
+
 ## **EC2 - Exercises - #1**
 
 **Exercise 1: Create a Single EC2 Instance**
@@ -30,7 +35,7 @@
 
   
 
-## **EC2 - Exercises - #2**
+## **EC2-Exercises-#2**
 
   
 
