@@ -1,4 +1,4 @@
-[Link to EC2-Exercises-#2](#EC2-Exercises-#2)
+[EC2-Exercises-#2](#EC2-Exercises-#2)
 [Link to Installation](#installation)
 [Link to Usage](#usage)
 
