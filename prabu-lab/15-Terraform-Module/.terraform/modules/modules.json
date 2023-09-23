@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ec2_instance","Source":"./Modules/01-EC2","Dir":"Modules/01-EC2"},{"Key":"security_group","Source":"./Modules/02-SG","Dir":"Modules/02-SG"}]}
